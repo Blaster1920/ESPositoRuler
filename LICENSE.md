@@ -8,5 +8,9 @@ MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
 PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable
 conditions(https://ohwr.org/cern_ohl_s_v2.txt).
   
+For the OSHWA logo copyright and licence refer to:
+https://certification.oshwa.org/license-agreement.html
+Verified OSHWA entry available at https://certification.oshwa.org/uk000010.html
+  
 For the font "GoodTimesRg" copyright and licence refer to:
 https://github.com/Blaster1920/ESPositoRuler/blob/master/typodermic-eula-03-2020.pdf
